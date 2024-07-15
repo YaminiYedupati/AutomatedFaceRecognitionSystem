@@ -37,15 +37,14 @@ Training images:
 ![image](https://github.com/user-attachments/assets/2d9ad7c8-3a94-49d9-8879-8c3432348cce)
 
 This is how encodings of training data look like:
-![Uploading image.png…]()
-
-![image](https://github.com/user-attachments/assets/8126f5ad-b315-4e09-81b1-4c24290c2c10)
+![image](https://github.com/user-attachments/assets/c18db996-1f24-49d1-b701-9f21bb346682)
 
 Recognizing data:
-![image](https://github.com/user-attachments/assets/ee63d3b7-bdb0-4717-a5c6-9c9d7754d8ae)
+![image](https://github.com/user-attachments/assets/1258c326-0f7f-4bd9-b850-701e2f31672f)
+(Actual face recognition output not included due to privacy purpose)
 
 Marking attendance:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ba2805fb-e30d-4c57-ae7b-d50a7e57e8db)
 
 
 
