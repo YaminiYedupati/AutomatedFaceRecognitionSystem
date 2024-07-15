@@ -1,6 +1,7 @@
 # AutomatedFaceRecognitionSystem
 
-Introduction:
+**Introduction:**
+
 The project is about the attendance management idea using face recognition technology which 
 will replace the manual method of taking attendance and also overcomes difficulties in 
 maintenance. The proposed system requires no papers and no attendance registers. All it needs is 
@@ -18,13 +19,15 @@ also overcomes issues like noting the data incorrectly , proxy attendance and er
 updation to a greater extent and can also reduce the time and work required to analyse or report 
 the status of attendance of students.
 
-Software Requirements:
+**Software Requirements:**
+
 o Tool kit :Anaconda prompt 
 o language: python 
 o Operating System: Windows  
 o Packages: numpy, opencv, pandas, dlib, face_recognition 
 
-Hardware Requirements:
+**Hardware Requirements:**
+
 o Primary Memory:8GB RAM 
 o Hard Disk:1TB  
 o Webcam
