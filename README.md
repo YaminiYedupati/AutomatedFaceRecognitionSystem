@@ -34,6 +34,8 @@ Training images:
 ![image](https://github.com/user-attachments/assets/2d9ad7c8-3a94-49d9-8879-8c3432348cce)
 
 This is how encodings of training data look like:
+![Uploading image.png…]()
+
 ![image](https://github.com/user-attachments/assets/8126f5ad-b315-4e09-81b1-4c24290c2c10)
 
 Recognizing data:
